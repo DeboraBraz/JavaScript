@@ -1,0 +1,1 @@
+var nome, idade, email;
