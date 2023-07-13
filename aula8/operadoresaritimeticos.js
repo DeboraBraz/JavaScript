@@ -16,5 +16,5 @@ console.log (5 ** 5);
 
 //++ --
 let idade=18;
-//console.log (++idade);
+console.log (++idade);
 console.log (--idade);

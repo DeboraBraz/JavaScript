@@ -3,7 +3,7 @@
 let meusDados = ['Debora',30,154,true];
 
 // caso eu queira acessar todo o array no console:
-
+console.log(meusDados);
 
 // caso eu queira acessar somente um valor do array preciso usar a posição indice que começa sempre com 0:
 console.log (meusDados[3]);
